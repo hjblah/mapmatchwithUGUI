@@ -11,4 +11,6 @@ MiniMapMin : Enter the GPS coordinates in the lower left corner of the imported 
 MiniMap : Put the map image in the form of an image component.
 MiniMap Char : Put the object to display in the location.
 
+<hr />
+
 Displays the object on the map using the ratio of the actual GPS distance to the distance on the map image.
