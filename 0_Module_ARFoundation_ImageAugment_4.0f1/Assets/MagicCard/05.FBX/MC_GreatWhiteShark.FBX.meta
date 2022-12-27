@@ -1,0 +1,1112 @@
+fileFormatVersion: 2
+guid: 389824a166fabfa43abbcfd0687c9e02
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ' 1'
+    100002: ' 2'
+    100004: Bg_StonePlane
+    100006: Bone001
+    100008: Bone001 1
+    100010: Bone002
+    100012: Bone002 1
+    100014: Bone003
+    100016: Bone003 1
+    100018: Bone004
+    100020: Bone004 1
+    100022: Bone005
+    100024: Bone005 1
+    100026: Bone006
+    100028: Bone006 1
+    100030: Bone007
+    100032: Bone008
+    100034: Bone009
+    100036: Bone011
+    100038: Bone012
+    100040: Bone013
+    100042: Bone015
+    100044: Bone015 1
+    100046: Bone021
+    100048: Bone021 1
+    100050: Bone022
+    100052: Bone022 1
+    100054: Bone023
+    100056: Bone023 1
+    100058: Bone024
+    100060: Bone025
+    100062: Bone026
+    100064: Bone027
+    100066: Bone028
+    100068: Bone029
+    100070: Dummy001
+    100072: Dummy002
+    100074: Dummy003
+    100076: Dummy004
+    100078: Dummy005
+    100080: Dummy006
+    100082: Dummy007
+    100084: Dummy008
+    100086: Dummy009
+    100088: GreatWhiteSharkBGPlane
+    100090: GreatWhiteSharkBody
+    100092: GreatWhiteSharkShadowLine
+    100094: GreatWhiteSharkTooth
+    100096: GWSDummy002
+    100098: GWSDummy002 1
+    100100: GWSDummy003
+    100102: GWSDummy003 1
+    100104: GWSDummy004
+    100106: GWSDummy004 1
+    100108: GWSDummy005
+    100110: GWSDummy005 1
+    100112: GWSDummy006
+    100114: GWSDummy006 1
+    100116: GWSShadowPlane
+    100118: IK Chain001
+    100120: IK Chain001 1
+    100122: IK Chain002
+    100124: IK Chain002 1
+    100126: IK Chain003
+    100128: IK Chain003 1
+    100130: IK Chain004
+    100132: IK Chain004 1
+    100134: IK Chain005
+    100136: IK Chain005 1
+    100138: Line001
+    100140: Line002
+    100142: //RootNode
+    100144: Plane003
+    100146: Plane003 1
+    100148: Plane005
+    100150: Plane008
+    100152: Rectangle001
+    100154: Rectangle002
+    100156: SeaWeed002
+    100158: SeaWeed003
+    100160: SeaWeed004
+    100162: SeaWeed005
+    100164: SeaWeed006
+    100166: SeaWeed007
+    100168: SeaWeed008
+    100170: SeaWeed009
+    100172: SeaWeed01
+    100174: SeaWeed010
+    100176: SeaWeed011
+    100178: SeaWeed012
+    100180: SeaWeed013
+    100182: SeaWeed014
+    100184: SeaWeed015
+    100186: SeaWeed016
+    100188: SeaWeed017
+    100190: SeaWeed018
+    100192: SeaWeed019
+    100194: SeriolaQquinqueradiata
+    100196: SeriolaQquinqueradiata001
+    100198: SeriolaQquinqueradiata002
+    100200: SeriolaQquinqueradiata003
+    100202: SeriolaQquinqueradiata004
+    100204: SeriolaQquinqueradiata005
+    100206: SeriolaQquinqueradiata006
+    100208: SeriolaQquinqueradiata007
+    100210: SeriolaQquinqueradiata008
+    100212: SeriolaQquinqueradiata009
+    100214: SeriolaQquinqueradiata010
+    100216: SeriolaQquinqueradiata011
+    100218: SeriolaQquinqueradiata012
+    100220: SeriolaQquinqueradiata013
+    100222: SeriolaQquinqueradiata014
+    100224: SeriolaQquinqueradiata015
+    100226: SeriolaQquinqueradiata016
+    100228: SeriolaQquinqueradiata017
+    100230: SeriolaQquinqueradiata018
+    100232: SeriolaQquinqueradiata019
+    100234: SeriolaQquinqueradiata020
+    100236: SeriolaQquinqueradiata021
+    100238: SeriolaQquinqueradiata022
+    100240: SeriolaQquinqueradiata023
+    100242: SeriolaQquinqueradiata024
+    100244: SeriolaQquinqueradiata025
+    100246: SeriolaQquinqueradiata026
+    100248: SeriolaQquinqueradiata027
+    100250: SeriolaQquinqueradiata028
+    100252: SeriolaQquinqueradiata029
+    100254: SeriolaQquinqueradiata030
+    100256: SeriolaQquinqueradiata031
+    100258: SeriolaQquinqueradiata032
+    100260: SeriolaQquinqueradiata033
+    100262: SeriolaQquinqueradiata034
+    100264: SeriolaQquinqueradiata035
+    100266: SeriolaQquinqueradiata036
+    100268: SeriolaQquinqueradiata037
+    100270: SeriolaQquinqueradiata038
+    100272: SeriolaQquinqueradiata039
+    100274: SeriolaQquinqueradiata040
+    100276: SeriolaQquinqueradiata041
+    100278: SeriolaQquinqueradiata042
+    100280: SeriolaQquinqueradiata043
+    100282: SeriolaQquinqueradiata044
+    100284: SeriolaQquinqueradiata045
+    100286: SeriolaQquinqueradiata046
+    100288: SeriolaQquinqueradiata047
+    100290: SeriolaQquinqueradiata048
+    100292: SeriolaQquinqueradiata049
+    100294: SeriolaQquinqueradiata050
+    100296: SeriolaQquinqueradiata051
+    100298: SeriolaQquinqueradiata052
+    100300: SeriolaQquinqueradiata053
+    100302: SeriolaQquinqueradiata054
+    100304: SeriolaQquinqueradiata055
+    100306: SeriolaQquinqueradiata056
+    100308: SeriolaQquinqueradiata057
+    100310: SeriolaQquinqueradiata058
+    100312: SeriolaQquinqueradiata059
+    100314: SeriolaQquinqueradiata060
+    100316: SeriolaQquinqueradiata061
+    100318: SeriolaQquinqueradiata062
+    100320: SeriolaQquinqueradiata063
+    100322: SeriolaQquinqueradiata064
+    100324: SeriolaQquinqueradiata065
+    100326: SeriolaQquinqueradiata066
+    100328: SeriolaQquinqueradiata067
+    100330: SeriolaQquinqueradiata068
+    100332: SeriolaQquinqueradiata069
+    100334: SeriolaQquinqueradiata070
+    100336: SeriolaQquinqueradiata071
+    100338: SeriolaQquinqueradiata072
+    100340: SeriolaQquinqueradiata073
+    100342: SeriolaQquinqueradiata074
+    100344: SeriolaQquinqueradiata075
+    100346: SeriolaQquinqueradiata076
+    100348: SeriolaQquinqueradiata077
+    100350: SeriolaQquinqueradiata078
+    100352: SeriolaQquinqueradiata079
+    100354: SeriolaQquinqueradiata080
+    400000: ' 1'
+    400002: ' 2'
+    400004: Bg_StonePlane
+    400006: Bone001
+    400008: Bone001 1
+    400010: Bone002
+    400012: Bone002 1
+    400014: Bone003
+    400016: Bone003 1
+    400018: Bone004
+    400020: Bone004 1
+    400022: Bone005
+    400024: Bone005 1
+    400026: Bone006
+    400028: Bone006 1
+    400030: Bone007
+    400032: Bone008
+    400034: Bone009
+    400036: Bone011
+    400038: Bone012
+    400040: Bone013
+    400042: Bone015
+    400044: Bone015 1
+    400046: Bone021
+    400048: Bone021 1
+    400050: Bone022
+    400052: Bone022 1
+    400054: Bone023
+    400056: Bone023 1
+    400058: Bone024
+    400060: Bone025
+    400062: Bone026
+    400064: Bone027
+    400066: Bone028
+    400068: Bone029
+    400070: Dummy001
+    400072: Dummy002
+    400074: Dummy003
+    400076: Dummy004
+    400078: Dummy005
+    400080: Dummy006
+    400082: Dummy007
+    400084: Dummy008
+    400086: Dummy009
+    400088: GreatWhiteSharkBGPlane
+    400090: GreatWhiteSharkBody
+    400092: GreatWhiteSharkShadowLine
+    400094: GreatWhiteSharkTooth
+    400096: GWSDummy002
+    400098: GWSDummy002 1
+    400100: GWSDummy003
+    400102: GWSDummy003 1
+    400104: GWSDummy004
+    400106: GWSDummy004 1
+    400108: GWSDummy005
+    400110: GWSDummy005 1
+    400112: GWSDummy006
+    400114: GWSDummy006 1
+    400116: GWSShadowPlane
+    400118: IK Chain001
+    400120: IK Chain001 1
+    400122: IK Chain002
+    400124: IK Chain002 1
+    400126: IK Chain003
+    400128: IK Chain003 1
+    400130: IK Chain004
+    400132: IK Chain004 1
+    400134: IK Chain005
+    400136: IK Chain005 1
+    400138: Line001
+    400140: Line002
+    400142: //RootNode
+    400144: Plane003
+    400146: Plane003 1
+    400148: Plane005
+    400150: Plane008
+    400152: Rectangle001
+    400154: Rectangle002
+    400156: SeaWeed002
+    400158: SeaWeed003
+    400160: SeaWeed004
+    400162: SeaWeed005
+    400164: SeaWeed006
+    400166: SeaWeed007
+    400168: SeaWeed008
+    400170: SeaWeed009
+    400172: SeaWeed01
+    400174: SeaWeed010
+    400176: SeaWeed011
+    400178: SeaWeed012
+    400180: SeaWeed013
+    400182: SeaWeed014
+    400184: SeaWeed015
+    400186: SeaWeed016
+    400188: SeaWeed017
+    400190: SeaWeed018
+    400192: SeaWeed019
+    400194: SeriolaQquinqueradiata
+    400196: SeriolaQquinqueradiata001
+    400198: SeriolaQquinqueradiata002
+    400200: SeriolaQquinqueradiata003
+    400202: SeriolaQquinqueradiata004
+    400204: SeriolaQquinqueradiata005
+    400206: SeriolaQquinqueradiata006
+    400208: SeriolaQquinqueradiata007
+    400210: SeriolaQquinqueradiata008
+    400212: SeriolaQquinqueradiata009
+    400214: SeriolaQquinqueradiata010
+    400216: SeriolaQquinqueradiata011
+    400218: SeriolaQquinqueradiata012
+    400220: SeriolaQquinqueradiata013
+    400222: SeriolaQquinqueradiata014
+    400224: SeriolaQquinqueradiata015
+    400226: SeriolaQquinqueradiata016
+    400228: SeriolaQquinqueradiata017
+    400230: SeriolaQquinqueradiata018
+    400232: SeriolaQquinqueradiata019
+    400234: SeriolaQquinqueradiata020
+    400236: SeriolaQquinqueradiata021
+    400238: SeriolaQquinqueradiata022
+    400240: SeriolaQquinqueradiata023
+    400242: SeriolaQquinqueradiata024
+    400244: SeriolaQquinqueradiata025
+    400246: SeriolaQquinqueradiata026
+    400248: SeriolaQquinqueradiata027
+    400250: SeriolaQquinqueradiata028
+    400252: SeriolaQquinqueradiata029
+    400254: SeriolaQquinqueradiata030
+    400256: SeriolaQquinqueradiata031
+    400258: SeriolaQquinqueradiata032
+    400260: SeriolaQquinqueradiata033
+    400262: SeriolaQquinqueradiata034
+    400264: SeriolaQquinqueradiata035
+    400266: SeriolaQquinqueradiata036
+    400268: SeriolaQquinqueradiata037
+    400270: SeriolaQquinqueradiata038
+    400272: SeriolaQquinqueradiata039
+    400274: SeriolaQquinqueradiata040
+    400276: SeriolaQquinqueradiata041
+    400278: SeriolaQquinqueradiata042
+    400280: SeriolaQquinqueradiata043
+    400282: SeriolaQquinqueradiata044
+    400284: SeriolaQquinqueradiata045
+    400286: SeriolaQquinqueradiata046
+    400288: SeriolaQquinqueradiata047
+    400290: SeriolaQquinqueradiata048
+    400292: SeriolaQquinqueradiata049
+    400294: SeriolaQquinqueradiata050
+    400296: SeriolaQquinqueradiata051
+    400298: SeriolaQquinqueradiata052
+    400300: SeriolaQquinqueradiata053
+    400302: SeriolaQquinqueradiata054
+    400304: SeriolaQquinqueradiata055
+    400306: SeriolaQquinqueradiata056
+    400308: SeriolaQquinqueradiata057
+    400310: SeriolaQquinqueradiata058
+    400312: SeriolaQquinqueradiata059
+    400314: SeriolaQquinqueradiata060
+    400316: SeriolaQquinqueradiata061
+    400318: SeriolaQquinqueradiata062
+    400320: SeriolaQquinqueradiata063
+    400322: SeriolaQquinqueradiata064
+    400324: SeriolaQquinqueradiata065
+    400326: SeriolaQquinqueradiata066
+    400328: SeriolaQquinqueradiata067
+    400330: SeriolaQquinqueradiata068
+    400332: SeriolaQquinqueradiata069
+    400334: SeriolaQquinqueradiata070
+    400336: SeriolaQquinqueradiata071
+    400338: SeriolaQquinqueradiata072
+    400340: SeriolaQquinqueradiata073
+    400342: SeriolaQquinqueradiata074
+    400344: SeriolaQquinqueradiata075
+    400346: SeriolaQquinqueradiata076
+    400348: SeriolaQquinqueradiata077
+    400350: SeriolaQquinqueradiata078
+    400352: SeriolaQquinqueradiata079
+    400354: SeriolaQquinqueradiata080
+    2300000: Bg_StonePlane
+    2300002: GreatWhiteSharkBGPlane
+    2300004: SeaWeed002
+    2300006: SeaWeed003
+    2300008: SeaWeed004
+    2300010: SeaWeed005
+    2300012: SeaWeed006
+    2300014: SeaWeed007
+    2300016: SeaWeed008
+    2300018: SeaWeed009
+    2300020: SeaWeed01
+    2300022: SeaWeed010
+    2300024: SeaWeed011
+    2300026: SeaWeed012
+    2300028: SeaWeed013
+    2300030: SeaWeed014
+    2300032: SeaWeed015
+    2300034: SeaWeed016
+    2300036: SeaWeed017
+    2300038: SeaWeed018
+    2300040: SeaWeed019
+    2300042: SeriolaQquinqueradiata
+    2300044: SeriolaQquinqueradiata001
+    2300046: SeriolaQquinqueradiata002
+    2300048: SeriolaQquinqueradiata003
+    2300050: SeriolaQquinqueradiata004
+    2300052: SeriolaQquinqueradiata005
+    2300054: SeriolaQquinqueradiata006
+    2300056: SeriolaQquinqueradiata007
+    2300058: SeriolaQquinqueradiata008
+    2300060: SeriolaQquinqueradiata009
+    2300062: SeriolaQquinqueradiata010
+    2300064: SeriolaQquinqueradiata011
+    2300066: SeriolaQquinqueradiata012
+    2300068: SeriolaQquinqueradiata013
+    2300070: SeriolaQquinqueradiata014
+    2300072: SeriolaQquinqueradiata015
+    2300074: SeriolaQquinqueradiata016
+    2300076: SeriolaQquinqueradiata017
+    2300078: SeriolaQquinqueradiata018
+    2300080: SeriolaQquinqueradiata019
+    2300082: SeriolaQquinqueradiata020
+    2300084: SeriolaQquinqueradiata021
+    2300086: SeriolaQquinqueradiata022
+    2300088: SeriolaQquinqueradiata023
+    2300090: SeriolaQquinqueradiata024
+    2300092: SeriolaQquinqueradiata025
+    2300094: SeriolaQquinqueradiata026
+    2300096: SeriolaQquinqueradiata027
+    2300098: SeriolaQquinqueradiata028
+    2300100: SeriolaQquinqueradiata029
+    2300102: SeriolaQquinqueradiata030
+    2300104: SeriolaQquinqueradiata031
+    2300106: SeriolaQquinqueradiata032
+    2300108: SeriolaQquinqueradiata033
+    2300110: SeriolaQquinqueradiata034
+    2300112: SeriolaQquinqueradiata035
+    2300114: SeriolaQquinqueradiata036
+    2300116: SeriolaQquinqueradiata037
+    2300118: SeriolaQquinqueradiata038
+    2300120: SeriolaQquinqueradiata039
+    2300122: SeriolaQquinqueradiata040
+    2300124: SeriolaQquinqueradiata041
+    2300126: SeriolaQquinqueradiata042
+    2300128: SeriolaQquinqueradiata043
+    2300130: SeriolaQquinqueradiata044
+    2300132: SeriolaQquinqueradiata045
+    2300134: SeriolaQquinqueradiata046
+    2300136: SeriolaQquinqueradiata047
+    2300138: SeriolaQquinqueradiata048
+    2300140: SeriolaQquinqueradiata049
+    2300142: SeriolaQquinqueradiata050
+    2300144: SeriolaQquinqueradiata051
+    2300146: SeriolaQquinqueradiata052
+    2300148: SeriolaQquinqueradiata053
+    2300150: SeriolaQquinqueradiata054
+    2300152: SeriolaQquinqueradiata055
+    2300154: SeriolaQquinqueradiata056
+    2300156: SeriolaQquinqueradiata057
+    2300158: SeriolaQquinqueradiata058
+    2300160: SeriolaQquinqueradiata059
+    2300162: SeriolaQquinqueradiata060
+    2300164: SeriolaQquinqueradiata061
+    2300166: SeriolaQquinqueradiata062
+    2300168: SeriolaQquinqueradiata063
+    2300170: SeriolaQquinqueradiata064
+    2300172: SeriolaQquinqueradiata065
+    2300174: SeriolaQquinqueradiata066
+    2300176: SeriolaQquinqueradiata067
+    2300178: SeriolaQquinqueradiata068
+    2300180: SeriolaQquinqueradiata069
+    2300182: SeriolaQquinqueradiata070
+    2300184: SeriolaQquinqueradiata071
+    2300186: SeriolaQquinqueradiata072
+    2300188: SeriolaQquinqueradiata073
+    2300190: SeriolaQquinqueradiata074
+    2300192: SeriolaQquinqueradiata075
+    2300194: SeriolaQquinqueradiata076
+    2300196: SeriolaQquinqueradiata077
+    2300198: SeriolaQquinqueradiata078
+    2300200: SeriolaQquinqueradiata079
+    2300202: SeriolaQquinqueradiata080
+    3300000: Bg_StonePlane
+    3300002: GreatWhiteSharkBGPlane
+    3300004: SeaWeed002
+    3300006: SeaWeed003
+    3300008: SeaWeed004
+    3300010: SeaWeed005
+    3300012: SeaWeed006
+    3300014: SeaWeed007
+    3300016: SeaWeed008
+    3300018: SeaWeed009
+    3300020: SeaWeed01
+    3300022: SeaWeed010
+    3300024: SeaWeed011
+    3300026: SeaWeed012
+    3300028: SeaWeed013
+    3300030: SeaWeed014
+    3300032: SeaWeed015
+    3300034: SeaWeed016
+    3300036: SeaWeed017
+    3300038: SeaWeed018
+    3300040: SeaWeed019
+    3300042: SeriolaQquinqueradiata
+    3300044: SeriolaQquinqueradiata001
+    3300046: SeriolaQquinqueradiata002
+    3300048: SeriolaQquinqueradiata003
+    3300050: SeriolaQquinqueradiata004
+    3300052: SeriolaQquinqueradiata005
+    3300054: SeriolaQquinqueradiata006
+    3300056: SeriolaQquinqueradiata007
+    3300058: SeriolaQquinqueradiata008
+    3300060: SeriolaQquinqueradiata009
+    3300062: SeriolaQquinqueradiata010
+    3300064: SeriolaQquinqueradiata011
+    3300066: SeriolaQquinqueradiata012
+    3300068: SeriolaQquinqueradiata013
+    3300070: SeriolaQquinqueradiata014
+    3300072: SeriolaQquinqueradiata015
+    3300074: SeriolaQquinqueradiata016
+    3300076: SeriolaQquinqueradiata017
+    3300078: SeriolaQquinqueradiata018
+    3300080: SeriolaQquinqueradiata019
+    3300082: SeriolaQquinqueradiata020
+    3300084: SeriolaQquinqueradiata021
+    3300086: SeriolaQquinqueradiata022
+    3300088: SeriolaQquinqueradiata023
+    3300090: SeriolaQquinqueradiata024
+    3300092: SeriolaQquinqueradiata025
+    3300094: SeriolaQquinqueradiata026
+    3300096: SeriolaQquinqueradiata027
+    3300098: SeriolaQquinqueradiata028
+    3300100: SeriolaQquinqueradiata029
+    3300102: SeriolaQquinqueradiata030
+    3300104: SeriolaQquinqueradiata031
+    3300106: SeriolaQquinqueradiata032
+    3300108: SeriolaQquinqueradiata033
+    3300110: SeriolaQquinqueradiata034
+    3300112: SeriolaQquinqueradiata035
+    3300114: SeriolaQquinqueradiata036
+    3300116: SeriolaQquinqueradiata037
+    3300118: SeriolaQquinqueradiata038
+    3300120: SeriolaQquinqueradiata039
+    3300122: SeriolaQquinqueradiata040
+    3300124: SeriolaQquinqueradiata041
+    3300126: SeriolaQquinqueradiata042
+    3300128: SeriolaQquinqueradiata043
+    3300130: SeriolaQquinqueradiata044
+    3300132: SeriolaQquinqueradiata045
+    3300134: SeriolaQquinqueradiata046
+    3300136: SeriolaQquinqueradiata047
+    3300138: SeriolaQquinqueradiata048
+    3300140: SeriolaQquinqueradiata049
+    3300142: SeriolaQquinqueradiata050
+    3300144: SeriolaQquinqueradiata051
+    3300146: SeriolaQquinqueradiata052
+    3300148: SeriolaQquinqueradiata053
+    3300150: SeriolaQquinqueradiata054
+    3300152: SeriolaQquinqueradiata055
+    3300154: SeriolaQquinqueradiata056
+    3300156: SeriolaQquinqueradiata057
+    3300158: SeriolaQquinqueradiata058
+    3300160: SeriolaQquinqueradiata059
+    3300162: SeriolaQquinqueradiata060
+    3300164: SeriolaQquinqueradiata061
+    3300166: SeriolaQquinqueradiata062
+    3300168: SeriolaQquinqueradiata063
+    3300170: SeriolaQquinqueradiata064
+    3300172: SeriolaQquinqueradiata065
+    3300174: SeriolaQquinqueradiata066
+    3300176: SeriolaQquinqueradiata067
+    3300178: SeriolaQquinqueradiata068
+    3300180: SeriolaQquinqueradiata069
+    3300182: SeriolaQquinqueradiata070
+    3300184: SeriolaQquinqueradiata071
+    3300186: SeriolaQquinqueradiata072
+    3300188: SeriolaQquinqueradiata073
+    3300190: SeriolaQquinqueradiata074
+    3300192: SeriolaQquinqueradiata075
+    3300194: SeriolaQquinqueradiata076
+    3300196: SeriolaQquinqueradiata077
+    3300198: SeriolaQquinqueradiata078
+    3300200: SeriolaQquinqueradiata079
+    3300202: SeriolaQquinqueradiata080
+    4300000: GreatWhiteSharkBGPlane
+    4300002: Bg_StonePlane
+    4300004: GreatWhiteSharkBody
+    4300006: GreatWhiteSharkTooth
+    4300008: GWSShadowPlane
+    4300010: SeriolaQquinqueradiata009
+    4300012: SeriolaQquinqueradiata010
+    4300014: SeriolaQquinqueradiata008
+    4300016: SeriolaQquinqueradiata001
+    4300018: SeriolaQquinqueradiata006
+    4300020: SeriolaQquinqueradiata003
+    4300022: SeriolaQquinqueradiata004
+    4300024: SeriolaQquinqueradiata
+    4300026: SeriolaQquinqueradiata005
+    4300028: SeriolaQquinqueradiata002
+    4300030: SeriolaQquinqueradiata011
+    4300032: SeriolaQquinqueradiata014
+    4300034: SeriolaQquinqueradiata012
+    4300036: SeriolaQquinqueradiata013
+    4300038: SeriolaQquinqueradiata016
+    4300040: SeriolaQquinqueradiata017
+    4300042: SeriolaQquinqueradiata015
+    4300044: SeriolaQquinqueradiata018
+    4300046: SeriolaQquinqueradiata007
+    4300048: SeriolaQquinqueradiata037
+    4300050: SeriolaQquinqueradiata038
+    4300052: SeriolaQquinqueradiata039
+    4300054: SeriolaQquinqueradiata040
+    4300056: SeriolaQquinqueradiata041
+    4300058: SeriolaQquinqueradiata019
+    4300060: SeriolaQquinqueradiata020
+    4300062: SeriolaQquinqueradiata026
+    4300064: SeriolaQquinqueradiata022
+    4300066: SeriolaQquinqueradiata023
+    4300068: SeriolaQquinqueradiata024
+    4300070: SeriolaQquinqueradiata025
+    4300072: SeriolaQquinqueradiata027
+    4300074: SeriolaQquinqueradiata021
+    4300076: SeriolaQquinqueradiata029
+    4300078: SeriolaQquinqueradiata035
+    4300080: SeriolaQquinqueradiata031
+    4300082: SeriolaQquinqueradiata032
+    4300084: SeriolaQquinqueradiata033
+    4300086: SeriolaQquinqueradiata034
+    4300088: SeriolaQquinqueradiata028
+    4300090: SeriolaQquinqueradiata036
+    4300092: SeriolaQquinqueradiata030
+    4300094: SeriolaQquinqueradiata042
+    4300096: SeriolaQquinqueradiata043
+    4300098: SeriolaQquinqueradiata044
+    4300100: SeriolaQquinqueradiata045
+    4300102: SeriolaQquinqueradiata046
+    4300104: SeriolaQquinqueradiata047
+    4300106: SeriolaQquinqueradiata048
+    4300108: SeriolaQquinqueradiata049
+    4300110: SeriolaQquinqueradiata050
+    4300112: SeriolaQquinqueradiata052
+    4300114: SeriolaQquinqueradiata061
+    4300116: SeriolaQquinqueradiata062
+    4300118: SeriolaQquinqueradiata063
+    4300120: SeriolaQquinqueradiata064
+    4300122: SeriolaQquinqueradiata065
+    4300124: SeriolaQquinqueradiata066
+    4300126: SeriolaQquinqueradiata067
+    4300128: SeriolaQquinqueradiata068
+    4300130: SeriolaQquinqueradiata051
+    4300132: SeriolaQquinqueradiata053
+    4300134: SeriolaQquinqueradiata054
+    4300136: SeriolaQquinqueradiata055
+    4300138: SeriolaQquinqueradiata056
+    4300140: SeriolaQquinqueradiata057
+    4300142: SeriolaQquinqueradiata058
+    4300144: SeriolaQquinqueradiata059
+    4300146: SeriolaQquinqueradiata060
+    4300148: SeriolaQquinqueradiata069
+    4300150: SeriolaQquinqueradiata070
+    4300152: SeriolaQquinqueradiata071
+    4300154: SeriolaQquinqueradiata072
+    4300156: SeriolaQquinqueradiata073
+    4300158: SeriolaQquinqueradiata074
+    4300160: SeriolaQquinqueradiata075
+    4300162: SeriolaQquinqueradiata076
+    4300164: SeriolaQquinqueradiata077
+    4300166: SeriolaQquinqueradiata078
+    4300168: SeriolaQquinqueradiata079
+    4300170: SeriolaQquinqueradiata080
+    4300172: SeaWeed01
+    4300174: SeaWeed002
+    4300176: SeaWeed003
+    4300178: SeaWeed004
+    4300180: SeaWeed005
+    4300182: SeaWeed006
+    4300184: SeaWeed007
+    4300186: SeaWeed008
+    4300188: SeaWeed009
+    4300190: SeaWeed010
+    4300192: SeaWeed011
+    4300194: SeaWeed012
+    4300196: SeaWeed013
+    4300198: SeaWeed014
+    4300200: SeaWeed015
+    4300202: SeaWeed016
+    4300204: SeaWeed017
+    4300206: SeaWeed018
+    4300208: SeaWeed019
+    7400000: Ani01
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: GreatWhiteSharkBody
+    13700002: GreatWhiteSharkTooth
+    13700004: GWSShadowPlane
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Ani01
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 800
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ' 1'
+        weight: 1
+      - path: ' 1/Bone001 1'
+        weight: 1
+      - path: ' 1/Bone001 1/Bone002'
+        weight: 1
+      - path: ' 1/Bone001 1/Bone002/Bone003'
+        weight: 1
+      - path: ' 1/Bone001 1/Bone002/Bone003/Bone004'
+        weight: 1
+      - path: ' 1/Bone001 1/Bone002/Bone003/Bone004/Bone005'
+        weight: 1
+      - path: ' 1/Bone001 1/Bone002/Bone003/Bone004/Bone005/Bone006 1'
+        weight: 1
+      - path: ' 1/Bone001 1/Bone002/Bone003/Bone004/Bone005/Bone006 1/Bone007'
+        weight: 1
+      - path: ' 1/Bone001 1/Bone002/Bone003/Bone004/Bone005/Bone006 1/Bone007/Bone008'
+        weight: 1
+      - path: ' 1/Bone001 1/Bone002/Bone003/Bone004/Bone005/Bone006 1/Bone007/Bone008/Bone009'
+        weight: 1
+      - path: ' 1/Bone001 1/Bone011'
+        weight: 1
+      - path: ' 1/Bone001 1/Bone011/Bone012'
+        weight: 1
+      - path: ' 1/Bone001 1/Bone011/Bone012/Bone013'
+        weight: 1
+      - path: ' 1/Bone001 1/Bone021 1'
+        weight: 1
+      - path: ' 1/Bone001 1/Bone021 1/Bone022 1'
+        weight: 1
+      - path: ' 1/Bone001 1/Bone021 1/Bone022 1/Bone015 1'
+        weight: 1
+      - path: ' 1/Bone001 1/Bone021 1/Bone022 1/Bone023 1'
+        weight: 1
+      - path: ' 1/Bone001 1/Bone024'
+        weight: 1
+      - path: ' 1/Bone001 1/Bone024/Bone025'
+        weight: 1
+      - path: ' 1/Bone001 1/Bone024/Bone025/Bone026'
+        weight: 1
+      - path: ' 1/Bone001 1/Bone027'
+        weight: 1
+      - path: ' 1/Bone001 1/Bone027/Bone028'
+        weight: 1
+      - path: ' 1/Bone001 1/Bone027/Bone028/Bone029'
+        weight: 1
+      - path: ' 1/GWSDummy002'
+        weight: 1
+      - path: ' 1/GWSDummy002/IK Chain001 1'
+        weight: 1
+      - path: ' 1/GWSDummy003'
+        weight: 1
+      - path: ' 1/GWSDummy003/IK Chain002 1'
+        weight: 1
+      - path: ' 1/GWSDummy004'
+        weight: 1
+      - path: ' 1/GWSDummy004/IK Chain003'
+        weight: 1
+      - path: ' 1/GWSDummy005 1'
+        weight: 1
+      - path: ' 1/GWSDummy005 1/IK Chain004'
+        weight: 1
+      - path: ' 1/GWSDummy006 1'
+        weight: 1
+      - path: ' 1/GWSDummy006 1/IK Chain005'
+        weight: 1
+      - path: ' 2'
+        weight: 1
+      - path: ' 2/Bone001'
+        weight: 1
+      - path: ' 2/Bone001/Bone002 1'
+        weight: 1
+      - path: ' 2/Bone001/Bone002 1/Bone003 1'
+        weight: 1
+      - path: ' 2/Bone001/Bone002 1/Bone003 1/Bone004 1'
+        weight: 1
+      - path: ' 2/Bone001/Bone002 1/Bone003 1/Bone004 1/Bone005 1'
+        weight: 1
+      - path: ' 2/Bone001/Bone002 1/Bone003 1/Bone004 1/Bone005 1/Bone006'
+        weight: 1
+      - path: ' 2/Bone001/Bone021'
+        weight: 1
+      - path: ' 2/Bone001/Bone021/Bone022'
+        weight: 1
+      - path: ' 2/Bone001/Bone021/Bone022/Bone015'
+        weight: 1
+      - path: ' 2/Bone001/Bone021/Bone022/Bone023'
+        weight: 1
+      - path: ' 2/GWSDummy002 1'
+        weight: 1
+      - path: ' 2/GWSDummy002 1/IK Chain001'
+        weight: 1
+      - path: ' 2/GWSDummy003 1'
+        weight: 1
+      - path: ' 2/GWSDummy003 1/IK Chain002'
+        weight: 1
+      - path: ' 2/GWSDummy004 1'
+        weight: 1
+      - path: ' 2/GWSDummy004 1/IK Chain003 1'
+        weight: 1
+      - path: ' 2/GWSDummy005'
+        weight: 1
+      - path: ' 2/GWSDummy005/IK Chain004 1'
+        weight: 1
+      - path: ' 2/GWSDummy006'
+        weight: 1
+      - path: ' 2/GWSDummy006/IK Chain005 1'
+        weight: 1
+      - path: Bg_StonePlane
+        weight: 1
+      - path: Dummy001
+        weight: 1
+      - path: Dummy001/SeriolaQquinqueradiata008
+        weight: 1
+      - path: Dummy001/SeriolaQquinqueradiata009
+        weight: 1
+      - path: Dummy001/SeriolaQquinqueradiata010
+        weight: 1
+      - path: Dummy002
+        weight: 1
+      - path: Dummy002/SeriolaQquinqueradiata
+        weight: 1
+      - path: Dummy002/SeriolaQquinqueradiata001
+        weight: 1
+      - path: Dummy002/SeriolaQquinqueradiata002
+        weight: 1
+      - path: Dummy002/SeriolaQquinqueradiata003
+        weight: 1
+      - path: Dummy002/SeriolaQquinqueradiata004
+        weight: 1
+      - path: Dummy002/SeriolaQquinqueradiata005
+        weight: 1
+      - path: Dummy002/SeriolaQquinqueradiata006
+        weight: 1
+      - path: Dummy002/SeriolaQquinqueradiata011
+        weight: 1
+      - path: Dummy002/SeriolaQquinqueradiata014
+        weight: 1
+      - path: Dummy003
+        weight: 1
+      - path: Dummy003/SeriolaQquinqueradiata007
+        weight: 1
+      - path: Dummy003/SeriolaQquinqueradiata012
+        weight: 1
+      - path: Dummy003/SeriolaQquinqueradiata013
+        weight: 1
+      - path: Dummy003/SeriolaQquinqueradiata015
+        weight: 1
+      - path: Dummy003/SeriolaQquinqueradiata016
+        weight: 1
+      - path: Dummy003/SeriolaQquinqueradiata017
+        weight: 1
+      - path: Dummy003/SeriolaQquinqueradiata018
+        weight: 1
+      - path: Dummy003/SeriolaQquinqueradiata037
+        weight: 1
+      - path: Dummy003/SeriolaQquinqueradiata038
+        weight: 1
+      - path: Dummy003/SeriolaQquinqueradiata039
+        weight: 1
+      - path: Dummy003/SeriolaQquinqueradiata040
+        weight: 1
+      - path: Dummy003/SeriolaQquinqueradiata041
+        weight: 1
+      - path: Dummy004
+        weight: 1
+      - path: Dummy004/SeriolaQquinqueradiata019
+        weight: 1
+      - path: Dummy004/SeriolaQquinqueradiata020
+        weight: 1
+      - path: Dummy004/SeriolaQquinqueradiata021
+        weight: 1
+      - path: Dummy004/SeriolaQquinqueradiata022
+        weight: 1
+      - path: Dummy004/SeriolaQquinqueradiata023
+        weight: 1
+      - path: Dummy004/SeriolaQquinqueradiata024
+        weight: 1
+      - path: Dummy004/SeriolaQquinqueradiata025
+        weight: 1
+      - path: Dummy004/SeriolaQquinqueradiata026
+        weight: 1
+      - path: Dummy004/SeriolaQquinqueradiata027
+        weight: 1
+      - path: Dummy005
+        weight: 1
+      - path: Dummy005/SeriolaQquinqueradiata028
+        weight: 1
+      - path: Dummy005/SeriolaQquinqueradiata029
+        weight: 1
+      - path: Dummy005/SeriolaQquinqueradiata030
+        weight: 1
+      - path: Dummy005/SeriolaQquinqueradiata031
+        weight: 1
+      - path: Dummy005/SeriolaQquinqueradiata032
+        weight: 1
+      - path: Dummy005/SeriolaQquinqueradiata033
+        weight: 1
+      - path: Dummy005/SeriolaQquinqueradiata034
+        weight: 1
+      - path: Dummy005/SeriolaQquinqueradiata035
+        weight: 1
+      - path: Dummy005/SeriolaQquinqueradiata036
+        weight: 1
+      - path: Dummy006
+        weight: 1
+      - path: Dummy006/SeriolaQquinqueradiata042
+        weight: 1
+      - path: Dummy006/SeriolaQquinqueradiata043
+        weight: 1
+      - path: Dummy006/SeriolaQquinqueradiata044
+        weight: 1
+      - path: Dummy006/SeriolaQquinqueradiata045
+        weight: 1
+      - path: Dummy006/SeriolaQquinqueradiata046
+        weight: 1
+      - path: Dummy006/SeriolaQquinqueradiata047
+        weight: 1
+      - path: Dummy006/SeriolaQquinqueradiata048
+        weight: 1
+      - path: Dummy006/SeriolaQquinqueradiata049
+        weight: 1
+      - path: Dummy006/SeriolaQquinqueradiata050
+        weight: 1
+      - path: Dummy007
+        weight: 1
+      - path: Dummy007/SeriolaQquinqueradiata052
+        weight: 1
+      - path: Dummy007/SeriolaQquinqueradiata061
+        weight: 1
+      - path: Dummy007/SeriolaQquinqueradiata062
+        weight: 1
+      - path: Dummy007/SeriolaQquinqueradiata063
+        weight: 1
+      - path: Dummy007/SeriolaQquinqueradiata064
+        weight: 1
+      - path: Dummy007/SeriolaQquinqueradiata065
+        weight: 1
+      - path: Dummy007/SeriolaQquinqueradiata066
+        weight: 1
+      - path: Dummy007/SeriolaQquinqueradiata067
+        weight: 1
+      - path: Dummy007/SeriolaQquinqueradiata068
+        weight: 1
+      - path: Dummy008
+        weight: 1
+      - path: Dummy008/SeriolaQquinqueradiata051
+        weight: 1
+      - path: Dummy008/SeriolaQquinqueradiata053
+        weight: 1
+      - path: Dummy008/SeriolaQquinqueradiata054
+        weight: 1
+      - path: Dummy008/SeriolaQquinqueradiata055
+        weight: 1
+      - path: Dummy008/SeriolaQquinqueradiata056
+        weight: 1
+      - path: Dummy008/SeriolaQquinqueradiata057
+        weight: 1
+      - path: Dummy008/SeriolaQquinqueradiata058
+        weight: 1
+      - path: Dummy008/SeriolaQquinqueradiata059
+        weight: 1
+      - path: Dummy008/SeriolaQquinqueradiata060
+        weight: 1
+      - path: Dummy009
+        weight: 1
+      - path: Dummy009/SeriolaQquinqueradiata069
+        weight: 1
+      - path: Dummy009/SeriolaQquinqueradiata070
+        weight: 1
+      - path: Dummy009/SeriolaQquinqueradiata071
+        weight: 1
+      - path: Dummy009/SeriolaQquinqueradiata072
+        weight: 1
+      - path: Dummy009/SeriolaQquinqueradiata073
+        weight: 1
+      - path: Dummy009/SeriolaQquinqueradiata074
+        weight: 1
+      - path: Dummy009/SeriolaQquinqueradiata075
+        weight: 1
+      - path: Dummy009/SeriolaQquinqueradiata076
+        weight: 1
+      - path: Dummy009/SeriolaQquinqueradiata077
+        weight: 1
+      - path: Dummy009/SeriolaQquinqueradiata078
+        weight: 1
+      - path: Dummy009/SeriolaQquinqueradiata079
+        weight: 1
+      - path: Dummy009/SeriolaQquinqueradiata080
+        weight: 1
+      - path: GreatWhiteSharkBGPlane
+        weight: 1
+      - path: GreatWhiteSharkShadowLine
+        weight: 1
+      - path: GWSShadowPlane
+        weight: 1
+      - path: Line001
+        weight: 1
+      - path: Line002
+        weight: 1
+      - path: Plane003
+        weight: 1
+      - path: Plane003 1
+        weight: 1
+      - path: Plane005
+        weight: 1
+      - path: Plane008
+        weight: 1
+      - path: Rectangle001
+        weight: 1
+      - path: Rectangle001/GreatWhiteSharkBody
+        weight: 1
+      - path: Rectangle001/GreatWhiteSharkTooth
+        weight: 1
+      - path: Rectangle002
+        weight: 1
+      - path: SeaWeed01
+        weight: 1
+      - path: SeaWeed002
+        weight: 1
+      - path: SeaWeed003
+        weight: 1
+      - path: SeaWeed004
+        weight: 1
+      - path: SeaWeed005
+        weight: 1
+      - path: SeaWeed006
+        weight: 1
+      - path: SeaWeed007
+        weight: 1
+      - path: SeaWeed008
+        weight: 1
+      - path: SeaWeed009
+        weight: 1
+      - path: SeaWeed010
+        weight: 1
+      - path: SeaWeed011
+        weight: 1
+      - path: SeaWeed012
+        weight: 1
+      - path: SeaWeed013
+        weight: 1
+      - path: SeaWeed014
+        weight: 1
+      - path: SeaWeed015
+        weight: 1
+      - path: SeaWeed016
+        weight: 1
+      - path: SeaWeed017
+        weight: 1
+      - path: SeaWeed018
+        weight: 1
+      - path: SeaWeed019
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0299999993
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

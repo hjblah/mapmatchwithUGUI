@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: 0ae6301d4db3f0144b731b7f9e156e2f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: BambooDummy001
+    100002: BambooDummy002
+    100004: BambooDummy003
+    100006: BambooDummy004
+    100008: BambooDummy005
+    100010: BambooDummy006
+    100012: BambooDummyEX
+    100014: BambooShoot002
+    100016: BambooShoot003
+    100018: BambooShoot004
+    100020: BambooShoot005
+    100022: BambooShoot006
+    100024: BambooShoot007
+    100026: BambooShoot008
+    100028: Bip001
+    100030: Bip001 Footsteps
+    100032: Bip001 Head
+    100034: Bip001 L Calf
+    100036: Bip001 L Clavicle
+    100038: Bip001 L Finger0
+    100040: Bip001 L Foot
+    100042: Bip001 L Forearm
+    100044: Bip001 L Hand
+    100046: Bip001 L Thigh
+    100048: Bip001 L Toe0
+    100050: Bip001 L UpperArm
+    100052: Bip001 Neck
+    100054: Bip001 Neck1
+    100056: Bip001 Pelvis
+    100058: Bip001 R Calf
+    100060: Bip001 R Clavicle
+    100062: Bip001 R Finger0
+    100064: Bip001 R Foot
+    100066: Bip001 R Forearm
+    100068: Bip001 R Hand
+    100070: Bip001 R Thigh
+    100072: Bip001 R Toe0
+    100074: Bip001 R UpperArm
+    100076: Bip001 Spine
+    100078: Bip001 Spine1
+    100080: Bip001 Spine2
+    100082: Bip001 Spine3
+    100084: Bip001 Tail
+    100086: Bip001 Tail1
+    100088: Bone001
+    100090: Bone003
+    100092: Bone004
+    100094: Bone005
+    100096: Bone007
+    100098: Bone008
+    100100: Cylinder013
+    100102: Cylinder014
+    100104: //RootNode
+    100106: Object010
+    100108: Object011
+    100110: Object012
+    100112: Object013
+    100114: Object014
+    100116: Object015
+    100118: Object016
+    100120: Object017
+    100122: Object018
+    100124: Object019
+    100126: Object020
+    100128: Object021
+    100130: Object022
+    100132: Object023
+    100134: Object024
+    100136: Object025
+    100138: Object026
+    100140: Object027
+    100142: panda
+    100144: BambooDummy
+    100146: BambooDummy007
+    100148: BambooShoot001
+    100150: Bip001 HeadNub
+    100152: Bip001 L Finger0Nub
+    100154: Bip001 L Toe0Nub
+    100156: Bip001 R Finger0Nub
+    100158: Bip001 R Toe0Nub
+    100160: Bip001 TailNub
+    100162: Object007
+    100164: Object008
+    100166: Object009
+    100168: Object028
+    100170: Object029
+    100172: Object030
+    400000: BambooDummy001
+    400002: BambooDummy002
+    400004: BambooDummy003
+    400006: BambooDummy004
+    400008: BambooDummy005
+    400010: BambooDummy006
+    400012: BambooDummyEX
+    400014: BambooShoot002
+    400016: BambooShoot003
+    400018: BambooShoot004
+    400020: BambooShoot005
+    400022: BambooShoot006
+    400024: BambooShoot007
+    400026: BambooShoot008
+    400028: Bip001
+    400030: Bip001 Footsteps
+    400032: Bip001 Head
+    400034: Bip001 L Calf
+    400036: Bip001 L Clavicle
+    400038: Bip001 L Finger0
+    400040: Bip001 L Foot
+    400042: Bip001 L Forearm
+    400044: Bip001 L Hand
+    400046: Bip001 L Thigh
+    400048: Bip001 L Toe0
+    400050: Bip001 L UpperArm
+    400052: Bip001 Neck
+    400054: Bip001 Neck1
+    400056: Bip001 Pelvis
+    400058: Bip001 R Calf
+    400060: Bip001 R Clavicle
+    400062: Bip001 R Finger0
+    400064: Bip001 R Foot
+    400066: Bip001 R Forearm
+    400068: Bip001 R Hand
+    400070: Bip001 R Thigh
+    400072: Bip001 R Toe0
+    400074: Bip001 R UpperArm
+    400076: Bip001 Spine
+    400078: Bip001 Spine1
+    400080: Bip001 Spine2
+    400082: Bip001 Spine3
+    400084: Bip001 Tail
+    400086: Bip001 Tail1
+    400088: Bone001
+    400090: Bone003
+    400092: Bone004
+    400094: Bone005
+    400096: Bone007
+    400098: Bone008
+    400100: Cylinder013
+    400102: Cylinder014
+    400104: //RootNode
+    400106: Object010
+    400108: Object011
+    400110: Object012
+    400112: Object013
+    400114: Object014
+    400116: Object015
+    400118: Object016
+    400120: Object017
+    400122: Object018
+    400124: Object019
+    400126: Object020
+    400128: Object021
+    400130: Object022
+    400132: Object023
+    400134: Object024
+    400136: Object025
+    400138: Object026
+    400140: Object027
+    400142: panda
+    400144: BambooDummy
+    400146: BambooDummy007
+    400148: BambooShoot001
+    400150: Bip001 HeadNub
+    400152: Bip001 L Finger0Nub
+    400154: Bip001 L Toe0Nub
+    400156: Bip001 R Finger0Nub
+    400158: Bip001 R Toe0Nub
+    400160: Bip001 TailNub
+    400162: Object007
+    400164: Object008
+    400166: Object009
+    400168: Object028
+    400170: Object029
+    400172: Object030
+    2300000: BambooShoot002
+    2300002: BambooShoot003
+    2300004: BambooShoot004
+    2300006: BambooShoot005
+    2300008: BambooShoot006
+    2300010: BambooShoot007
+    2300012: BambooShoot008
+    2300014: Cylinder013
+    2300016: Cylinder014
+    2300018: Object010
+    2300020: Object011
+    2300022: Object012
+    2300024: Object013
+    2300026: Object014
+    2300028: Object015
+    2300030: Object016
+    2300032: Object017
+    2300034: Object018
+    2300036: Object019
+    2300038: Object020
+    2300040: Object021
+    2300042: Object022
+    2300044: Object023
+    2300046: Object024
+    2300048: Object025
+    2300050: Object026
+    2300052: Object027
+    2300054: BambooShoot001
+    2300056: Object007
+    2300058: Object008
+    2300060: Object009
+    2300062: Object028
+    2300064: Object029
+    2300066: Object030
+    3300000: BambooShoot002
+    3300002: BambooShoot003
+    3300004: BambooShoot004
+    3300006: BambooShoot005
+    3300008: BambooShoot006
+    3300010: BambooShoot007
+    3300012: BambooShoot008
+    3300014: Cylinder013
+    3300016: Cylinder014
+    3300018: Object010
+    3300020: Object011
+    3300022: Object012
+    3300024: Object013
+    3300026: Object014
+    3300028: Object015
+    3300030: Object016
+    3300032: Object017
+    3300034: Object018
+    3300036: Object019
+    3300038: Object020
+    3300040: Object021
+    3300042: Object022
+    3300044: Object023
+    3300046: Object024
+    3300048: Object025
+    3300050: Object026
+    3300052: Object027
+    3300054: BambooShoot001
+    3300056: Object007
+    3300058: Object008
+    3300060: Object009
+    3300062: Object028
+    3300064: Object029
+    3300066: Object030
+    4300000: panda
+    4300002: BambooShoot008
+    4300004: Cylinder013
+    4300006: Cylinder014
+    4300008: BambooShoot002
+    4300010: Object010
+    4300012: Object011
+    4300014: Object012
+    4300016: Object013
+    4300018: Object014
+    4300020: Object015
+    4300022: BambooShoot003
+    4300024: Object016
+    4300026: Object017
+    4300028: Object018
+    4300030: BambooShoot004
+    4300032: Object019
+    4300034: Object020
+    4300036: Object021
+    4300038: BambooShoot005
+    4300040: Object022
+    4300042: Object023
+    4300044: Object024
+    4300046: BambooShoot006
+    4300048: Object025
+    4300050: Object026
+    4300052: Object027
+    4300054: BambooShoot007
+    4300056: BambooShoot001
+    4300058: Object007
+    4300060: Object009
+    4300062: Object008
+    4300064: Object028
+    4300066: Object029
+    4300068: Object030
+    7400000: Ani01
+    7400002: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: panda
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Ani01
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 900
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BambooDummy
+        weight: 1
+      - path: BambooDummy/BambooShoot001
+        weight: 1
+      - path: BambooDummy/Object007
+        weight: 1
+      - path: BambooDummy/Object008
+        weight: 1
+      - path: BambooDummy/Object009
+        weight: 1
+      - path: BambooDummy001
+        weight: 1
+      - path: BambooDummy001/BambooShoot002
+        weight: 1
+      - path: BambooDummy001/Object010
+        weight: 1
+      - path: BambooDummy001/Object011
+        weight: 1
+      - path: BambooDummy001/Object012
+        weight: 1
+      - path: BambooDummy002
+        weight: 1
+      - path: BambooDummy002/BambooShoot003
+        weight: 1
+      - path: BambooDummy002/Object013
+        weight: 1
+      - path: BambooDummy002/Object014
+        weight: 1
+      - path: BambooDummy002/Object015
+        weight: 1
+      - path: BambooDummy003
+        weight: 1
+      - path: BambooDummy003/BambooShoot004
+        weight: 1
+      - path: BambooDummy003/Object016
+        weight: 1
+      - path: BambooDummy003/Object017
+        weight: 1
+      - path: BambooDummy003/Object018
+        weight: 1
+      - path: BambooDummy004
+        weight: 1
+      - path: BambooDummy004/BambooShoot005
+        weight: 1
+      - path: BambooDummy004/Object019
+        weight: 1
+      - path: BambooDummy004/Object020
+        weight: 1
+      - path: BambooDummy004/Object021
+        weight: 1
+      - path: BambooDummy005
+        weight: 1
+      - path: BambooDummy005/BambooShoot006
+        weight: 1
+      - path: BambooDummy005/Object022
+        weight: 1
+      - path: BambooDummy005/Object023
+        weight: 1
+      - path: BambooDummy005/Object024
+        weight: 1
+      - path: BambooDummy006
+        weight: 1
+      - path: BambooDummy006/BambooShoot007
+        weight: 1
+      - path: BambooDummy006/Object025
+        weight: 1
+      - path: BambooDummy006/Object026
+        weight: 1
+      - path: BambooDummy006/Object027
+        weight: 1
+      - path: BambooDummy007
+        weight: 1
+      - path: BambooDummy007/BambooShoot008
+        weight: 1
+      - path: BambooDummy007/Object028
+        weight: 1
+      - path: BambooDummy007/Object029
+        weight: 1
+      - path: BambooDummy007/Object030
+        weight: 1
+      - path: Bip001
+        weight: 1
+      - path: Bip001/Bip001 Footsteps
+        weight: 1
+      - path: Bip001/Bip001 Pelvis
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L Foot
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L Foot/Bip001 L Toe0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 L Thigh/Bip001 L Calf/Bip001
+          L Foot/Bip001 L Toe0/Bip001 L Toe0Nub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R Foot
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R Foot/Bip001 R Toe0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 R Thigh/Bip001 R Calf/Bip001
+          R Foot/Bip001 R Toe0/Bip001 R Toe0Nub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 L Clavicle
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+          L Hand
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+          L Hand/Bip001 L Finger0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 L Clavicle/Bip001 L UpperArm/Bip001 L Forearm/Bip001
+          L Hand/Bip001 L Finger0/Bip001 L Finger0Nub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 Neck1
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 Neck1/Bip001 Head
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 Neck1/Bip001 Head/Bip001 HeadNub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 Neck1/Bip001 Head/Bone001
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 Neck1/Bip001 Head/Bone003
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 Neck1/Bip001 Head/Bone003/Bone004
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 Neck1/Bip001 Head/Bone003/Bone004/Bone005
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 Neck1/Bip001 Head/Bone007
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 Neck1/Bip001 Head/Bone008
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 R Clavicle
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+          R Hand
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+          R Hand/Bip001 R Finger0
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Spine1/Bip001 Spine2/Bip001
+          Spine3/Bip001 Neck/Bip001 R Clavicle/Bip001 R UpperArm/Bip001 R Forearm/Bip001
+          R Hand/Bip001 R Finger0/Bip001 R Finger0Nub
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Tail
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Tail/Bip001 Tail1
+        weight: 1
+      - path: Bip001/Bip001 Pelvis/Bip001 Spine/Bip001 Tail/Bip001 Tail1/Bip001 TailNub
+        weight: 1
+      - path: Cylinder013
+        weight: 1
+      - path: Cylinder014
+        weight: 1
+      - path: panda
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
